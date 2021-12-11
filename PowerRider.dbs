@@ -1,0 +1,272 @@
+type = "Doom Builder Map Settings Configuration";
+gameconfig = "GZDoom_DoomUDMF.cfg";
+strictpatches = 0;
+
+maps
+{
+	
+	MAP01
+	{
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 2;
+				location = "C:\\Users\\pedro\\Games\\Oldschool\\DooM\\PowerRider\\WPN_HandCannon_MOD.pk3";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			resource1
+			{
+				type = 0;
+				location = "C:\\Users\\pedro\\Games\\Oldschool\\DooM\\PowerRider\\OTEX_1.1.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			resource2
+			{
+				type = 0;
+				location = "C:\\Users\\pedro\\Games\\Oldschool\\DooM\\PowerRider\\ENE_Black_Ops_MOD.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			resource3
+			{
+				type = 0;
+				location = "C:\\Users\\pedro\\Games\\Oldschool\\DooM\\PowerRider\\WPN_CryoBow_MOD.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			resource4
+			{
+				type = 0;
+				location = "C:\\Users\\pedro\\Games\\Oldschool\\DooM\\PowerRider\\WPN_FlakCannon_MOD.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			resource5
+			{
+				type = 0;
+				location = "C:\\Users\\pedro\\Games\\Oldschool\\DooM\\PowerRider\\WPN_Nailgun(MG)_MOD.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			resource6
+			{
+				type = 0;
+				location = "C:\\Users\\pedro\\Games\\Oldschool\\DooM\\PowerRider\\WPN_Nailgun(SG)_MOD.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			resource7
+			{
+				type = 0;
+				location = "C:\\Users\\pedro\\Games\\Oldschool\\DooM\\PowerRider\\WPN_Railgun_MOD.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			resource8
+			{
+				type = 0;
+				location = "C:\\Users\\pedro\\Games\\Oldschool\\DooM\\PowerRider\\WPN_AA12Shotgun_MOD.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			resource9
+			{
+				type = 0;
+				location = "C:\\Users\\pedro\\Games\\Oldschool\\DooM\\PowerRider\\ENE_Liquidator_MOD.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			resource10
+			{
+				type = 0;
+				location = "C:\\Users\\pedro\\Games\\Oldschool\\DooM\\PowerRider\\ENE_DarkInquisitor_MOD.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			resource11
+			{
+				type = 2;
+				location = "C:\\Users\\pedro\\Games\\Oldschool\\DooM\\PowerRider\\PRP_Bushes_MOD.pk3";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			resource12
+			{
+				type = 0;
+				location = "C:\\Users\\pedro\\Games\\Oldschool\\DooM\\PowerRider\\PRP_HYDRVARS_MOD.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			resource13
+			{
+				type = 0;
+				location = "C:\\Users\\pedro\\Games\\Oldschool\\DooM\\PowerRider\\PRP_candlecolorvariations_MOD.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			resource14
+			{
+				type = 0;
+				location = "C:\\Users\\pedro\\Games\\Oldschool\\DooM\\PowerRider\\ENE_ChaingunDemon_MOD.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			resource15
+			{
+				type = 0;
+				location = "C:\\Users\\pedro\\Games\\Oldschool\\DooM\\PowerRider\\PRP_D64Lamps_MOD.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			resource16
+			{
+				type = 0;
+				location = "C:\\Users\\pedro\\Games\\Oldschool\\DooM\\PowerRider\\WPN_DukeShotgun_MOD.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			resource17
+			{
+				type = 2;
+				location = "C:\\Users\\pedro\\Games\\Oldschool\\DooM\\PowerRider\\PRP_FireExtinguisher_MOD.pk3";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+		}
+		defaultfloortexture = "O5DMDB03";
+		defaultceiltexture = "F_SKY1";
+		defaulttoptexture = "OBNKRB30";
+		defaultwalltexture = "OBNKRB30";
+		defaultbottomtexture = "OBNKRB30";
+		custombrightness = 196;
+		customfloorheight = 0;
+		customceilheight = 128;
+		overridefloortexture = false;
+		overrideceiltexture = false;
+		overridetoptexture = false;
+		overridemiddletexture = false;
+		overridebottomtexture = false;
+		overridefloorheight = false;
+		overrideceilheight = false;
+		overridebrightness = false;
+		uselongtexturenames = false;
+		useresourcesinreadonlymode = false;
+		viewpositionx = 873.6362f;
+		viewpositiony = 491.5147f;
+		viewscale = 0.6499981f;
+		scriptcompiler = "zdoom_acs.cfg";
+		
+		grid
+		{
+			background = "";
+			backsource = 0;
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			gridsize = 32f;
+		}
+		
+		fieldtypes
+		{
+			
+			sidedef
+			{
+				offsetx_mid = 1;
+				offsety_bottom = 1;
+				offsetx_bottom = 1;
+				offsety_mid = 1;
+				offsety_top = 1;
+				offsetx_top = 1;
+				scalex_mid = 1;
+				scaley_mid = 1;
+				scaley_bottom = 1;
+				scalex_bottom = 1;
+				light = 0;
+			}
+			
+			sector
+			{
+				xpanningfloor = 1;
+				ypanningfloor = 1;
+				xpanningceiling = 1;
+				ypanningceiling = 1;
+				rotationceiling = 17;
+				xscaleceiling = 1;
+				yscaleceiling = 1;
+				rotationfloor = 17;
+				xscalefloor = 1;
+				yscalefloor = 1;
+			}
+			
+			thing
+			{
+				fillcolor = 0;
+			}
+		}
+		
+		scriptdocuments
+		{
+			
+			document0
+			{
+				filename = "DIALOGUE";
+				hash = 3588187714;
+				resource;
+				tabtype = 0;
+				scripttype = 18;
+			}
+			
+			document1
+			{
+				filename = "SCRIPTS";
+				hash = 3469170009;
+				resource;
+				tabtype = 0;
+				scripttype = 1;
+				caretposition = 108;
+				activetab = true;
+			}
+		}
+	}
+}
